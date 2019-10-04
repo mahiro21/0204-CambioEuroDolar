@@ -22,6 +22,7 @@ package org.japo.java.main;
 public class Main {
     
     public static void main(String[] args){
-    System.out.println("Hola Mundo");
+    
+    System.out.printf("1 Euro equivale a día de hoy %f Dolares", 1.10);
     }
 }
