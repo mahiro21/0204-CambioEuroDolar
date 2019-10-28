@@ -20,9 +20,9 @@ package org.japo.java.main;
  * @author Mario Merlos Abella <mario.merlos.alum@iescamp.es>
  */
 public class Main {
-    
-    public static void main(String[] args){
-    
-    System.out.printf("1 Euro equivale a día de hoy %f Dolares", 1.10);
+
+    public static void main(String[] args) {
+
+        System.out.printf("1 Euro equivale a día de hoy %f Dolares", 1.10);
     }
 }
